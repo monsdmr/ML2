@@ -1,0 +1,13 @@
+project_id = "mjlrrhdktwxhgmffcmyp"
+
+[functions.sigmapay-pix]
+verify_jwt = false
+
+[functions.sigmapay-webhook]
+verify_jwt = false
+
+[functions.check-transaction-status]
+verify_jwt = false
+
+[functions.track-order]
+verify_jwt = false
